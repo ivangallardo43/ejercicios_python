@@ -1,3 +1,4 @@
+# tecla windows punto para obtener sugerencias de stickers
 menu = """
 Bienvenido al conversor 💰🤑
 
